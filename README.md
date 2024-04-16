@@ -1,2 +1,5 @@
 # MyFirstRepository
-STA 445 MyFirstRepository
+## Sofia Mendoza 
+### STA 445 
+
+MyFirstRepository
